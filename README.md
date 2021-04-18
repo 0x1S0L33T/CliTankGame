@@ -1,0 +1,3 @@
+# CliTankGame
+Well, hello friends!
+As I'm still beginner and dumb I'm trying to make games and to make programming more exciting, so that's my first CLI python game...
